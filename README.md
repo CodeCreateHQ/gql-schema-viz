@@ -4,7 +4,8 @@ Visualize your graphql schema
 
 ## Relevant Research
 
-```{
+```
+{
   __schema{
   	types {
       name
@@ -21,4 +22,5 @@ Visualize your graphql schema
       } 
     }
   }
-}```
+}
+```
