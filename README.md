@@ -6,10 +6,10 @@ Visualize your graphql schema
 
 ```
 {
-  __schema{
-  	types {
+  __schema {
+    types {
       name
-    	fields {
+      fields {
         name
         __typename
         type {
@@ -19,7 +19,7 @@ Visualize your graphql schema
             description
           }
         }
-      } 
+      }
     }
   }
 }
